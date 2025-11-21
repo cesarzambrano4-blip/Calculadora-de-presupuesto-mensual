@@ -1,1 +1,19 @@
+# Propuesta de Mantenimiento
+
+Plan de mantenimiento para el sistema:
+
+- Mantenimiento correctivo: solución de errores reportados.
+- Mantenimiento evolutivo: incorporación de nuevas funcionalidades (integraciones, exportes).
+- Mantenimiento preventivo: actualizaciones de dependencias y revisión de seguridad.
+
+## Frecuencia
+
+- Revisión de dependencias: mensual.
+- Backups: semanal.
+- Auditoría de seguridad: cada 6 meses.
+
+## Responsabilidades
+
+- Equipo de soporte: seguimiento de incidencias.
+- DevOps: despliegue y backups.
 
