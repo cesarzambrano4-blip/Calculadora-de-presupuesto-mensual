@@ -33,4 +33,11 @@ La calculadora del presupuesto mensual es una aplicación con el propósito de o
 | TC-004    | Calcular balance mensual             | Registrar ingresos → Registrar gastos → Ver balance        | Ingreso: 1000, Gasto: 400        | Balance = 600                      |
 | TC-005    | Exportar reporte CSV                 | Crear presupuesto → Exportar CSV                           | Datos generados                  | CSV exportado correctamente        |
 
-##   Propuesta de Mantenimiento 
+##   Tipo de Mantenimiento Propuesto 
+Se espera la realizacion de **mantenimiento correctivo** para solucionar errores que afecten el funcionamiento **mantenimiento preventino** para evitar fallos futuros y mantener el sistema estable y el **mantenimiento evolutivo** para agaregar mejoras y nuevas funciones segun las necesidades del usuario. Asi juntos permiten que el sistema sea confiable, seguro y pueda seguir creciendo.
+
+## Refleccion sobre el control de versiones
+El control de versiones en GitHub permite trabajar de forma ordenada, segura y colaborativa. Facilita llevar un historial claro de cambios, recuperar versiones anteriores y evitar la pérdida de información. Además, mejora el trabajo en equipo al permitir que varias personas aporten sin generar conflictos. En resumen, es una herramienta clave para desarrollar software de manera profesional y eficiente.
+
+---
+
