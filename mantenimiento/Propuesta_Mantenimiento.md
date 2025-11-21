@@ -1,5 +1,5 @@
 
-# Propuesta de Mantenimiento
+# Propuesta de Mantenimiento 
 Plan de mantenimiento para el sistema:
 
 ## 1. Mantenimiento correctivo 
